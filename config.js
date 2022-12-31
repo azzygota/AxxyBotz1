@@ -6,12 +6,12 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6285380166282'],
-  ['6285380166282', '️OWNER - Maxxy', true]
+  ['6289513081052'],
+  ['6289513081052', '️OWNER - 𝙰𝚍𝚛𝚒𝚊𝚗', true]
 ]
-global.mods = ['6285380166282']
-global.prems = ['6285380166282']
-global.girlfren = ['6285380166282']
+global.mods = ['6289513081052']
+global.prems = ['6289513081052']
+global.girlfren = ['-']
 
 /*Website*/
 global.APIs = {
@@ -83,21 +83,21 @@ global.xckey = '7iyNa0qA'
 */
 
 /*Number*/
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.namebot = 'MaxxyBotz'
+global.nomorbot = '6285860928363'
+global.nomorown = '6289513081052'
+global.namebot = '𝙰𝚍𝚛𝚒𝚊𝚗 𝚇 𝙽𝚊𝚒𝚜𝚊'
 global.nameown = '「 Oᴡɴᴇʀ 」'
 
 /*Watermark*/
-global.wm = '                「 MaxxyBotz あ⁩ 」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ MaxxyBotz'
+global.wm = '                「 𝙰𝚍𝚛𝚒𝚊𝚗 𝚇 𝙽𝚊𝚒𝚜𝚊 あ⁩ 」'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝙰𝚍𝚛𝚒𝚊𝚗 𝚇 𝙽𝚊𝚒𝚜𝚊˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ 𝙰𝚍𝚛𝚒𝚊𝚗 𝚇 𝙽𝚊𝚒𝚜𝚊'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
 /*Thumbnail*/
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
+global.giflogo = 'https://a.uguu.se/fpovmUDx.mp4'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.flaaa = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
@@ -107,13 +107,13 @@ global.flaaa = [
 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text=']
 
 /*Link*/
-global.sig = 'https://www.instagram.com/kahfiofc'
-global.sgh = 'https://www.github.com/'
-global.sgc = 'https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup'
+global.sig = 'https://www.instagram.com/adrianpreset03'
+global.sgh = 'https://www.github.com/azzygota'
+global.sgc = 'https://chat.whatsapp.com/Jvhe5lK67Kj0wWmWcgZZ4L'
 global.sdc = '-'
-global.snh = 'https://www.tiktok.com/@gasszxd'
-global.sfb = 'https://www.facebook.com/'
-global.syt = 'https://www.youtube.com/@MaxxyBotz'
+global.snh = 'https://www.tiktok.com/@adrianpreset03
+global.sfb = 'https://www.facebook.com/hzzy.gota'
+global.syt = 'https://www.youtube.com/@adrianpreset03'
 
 /*Nsfw*/
 global.optsnsfw = true
@@ -139,8 +139,8 @@ global.adReplyS = {
 						showAdAttribution: true,
 						title: '👋 Halo ᴋᴀᴋ :3 ',
 						body: 'WhatsApp Bot',
-						mediaUrl: 'https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup',
-						description: 'KAHFI XD',
+						mediaUrl: 'https://chat.whatsapp.com/Jvhe5lK67Kj0wWmWcgZZ4L',
+						description: '𝙰𝚍𝚛𝚒𝚊𝚗 𝚇 𝙽𝚊𝚒𝚜𝚊',
 						previewType: 'PHOTO',
 						thumbnail: await fs.readFileSync('./thumbnail.jpg'),
 						sourceUrl: 'https://github.com/',
@@ -156,13 +156,13 @@ global.adReplyS = {
 						body: 'WhatsApp Bot',
 						containsAutoReply: true,
 						mediaType: 1,
-						mediaUrl: 'https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup',
+						mediaUrl: 'https://chat.whatsapp.com/Jvhe5lK67Kj0wWmWcgZZ4L',
 						renderLargerThumbnail: true,
 						showAdAttribution: true,
-						sourceId: 'KAHFI XD',
+						sourceId: '𝙰𝚍𝚛𝚒𝚊𝚗 𝚇 𝙽𝚊𝚒𝚜𝚊',
 						sourceType: 'PDF',
 						previewType: 'PDF',
-						sourceUrl: 'https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup',
+						sourceUrl: 'https://chat.whatsapp.com/Jvhe5lK67Kj0wWmWcgZZ4L',
 						thumbnail: await fs.readFileSync('./thumbnail.jpg'),
 						thumbnailUrl: 'https://cerdasin.netlify.app/img/thumbnail.jpg',
 						title: '👋 Halo ᴋᴀᴋ :3 '
@@ -176,11 +176,11 @@ global.adReplyS = {
 						showAdAttribution: true,
 						mediaUrl: 'https://www.instagram.com',
 						mediaType: "VIDEO",
-						description: "Follow: " + 'https://www.instagram.com/kahfiofc',
+						description: "Follow: " + 'https://www.instagram.com/adrianpreset03',
 						title: '👋 Halo ᴋᴀᴋ :3 ',
 						body: 'WhatsApp Bot',
 						thumbnailUrl: await fs.readFileSync('./thumbnail.jpg'),
-						sourceUrl: 'https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup'
+						sourceUrl: 'https://chat.whatsapp.com/Jvhe5lK67Kj0wWmWcgZZ4L'
 					}
 				}
 			}
@@ -189,9 +189,9 @@ global.adReplyS = {
 				contextInfo: {
 					externalAdReply: {
 						showAdAttribution: true,
-						mediaUrl: 'https://www.facebook.com',
+						mediaUrl: 'https://www.facebook.com/hzzy.gota',
 						mediaType: "VIDEO",
-						description: "Follow: " + 'https://www.instagram.com/kahfiofc',
+						description: "Follow: " + 'https://www.instagram.com/adrianpreset03',
 						title: '👋 Halo ᴋᴀᴋ :3 ',
 						body: 'WhatsApp Bot',
 						thumbnailUrl: await fs.readFileSync('./thumbnail.jpg'),
@@ -204,13 +204,13 @@ global.adReplyS = {
 				contextInfo: {
 					externalAdReply: {
 						showAdAttribution: true,
-						mediaUrl: 'https://www.tiktok.com',
+						mediaUrl: 'https://www.tiktok.com/@adrianpreset03',
 						mediaType: "VIDEO",
-						description: "Follow: " + 'https://www.instagram.com/kahfiofc',
+						description: "Follow: " + 'https://www.instagram.com/adrianpreset03',
 						title: '👋 Halo ᴋᴀᴋ :3 ',
 						body: 'WhatsApp Bot',
 						thumbnailUrl: await fs.readFileSync('./thumbnail.jpg'),
-						sourceUrl: 'https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup'
+						sourceUrl: 'https://chat.whatsapp.com/Jvhe5lK67Kj0wWmWcgZZ4L'
 					}
 				}
 			}
@@ -219,13 +219,13 @@ global.adReplyS = {
 				contextInfo: {
 					externalAdReply: {
 						showAdAttribution: true,
-						mediaUrl: 'https://www.youtube.com/@MaxxyBotz',
+						mediaUrl: 'https://www.youtube.com/@adrianpreset03',
 						mediaType: "VIDEO",
-						description: "Follow: " + 'https://www.instagram.com/kahfiofc',
+						description: "Follow: " + 'https://www.instagram.com/adrianpreset03',
 						title: '👋 Halo ᴋᴀᴋ :3 ',
 						body: 'WhatsApp Bot',
 						thumbnailUrl: await fs.readFileSync('./thumbnail.jpg'),
-						sourceUrl: 'https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup'
+						sourceUrl: 'https://chat.whatsapp.com/Jvhe5lK67Kj0wWmWcgZZ4L'
 					}
 				}
 			}
@@ -283,9 +283,9 @@ global.pmenus = '〆'
 global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     '
 global.htjava = '⫹⫺'
 global.emojis = '🔖'
-global.packname = '𝗠𝗮𝗱𝗲 𝗕𝘆'
+global.packname = '𝙰𝚍𝚛𝚒𝚊𝚗𝙱𝚘𝚝𝚣'
 global.stickpack = packname
-global.author = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ 乂 ᴋᴀʜꜰɪ xᴅ'
+global.author = '𝙰𝚍𝚛𝚒𝚊𝚗 𝚇 𝙽𝚊𝚒𝚜𝚊'
 global.stickauth = author + '\nwa.me/' + nomorbot
 global.multiplier = 69
 
@@ -293,22 +293,22 @@ global.multiplier = 69
 global.eror = '*E R R O R*'
 global.wait = '*W A I T*'
 global.render = '*R E N D E R*'
-global.webs = 'https://lynk.id/kahfi.xd'
-global.gcwangsaf = 'https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup'
+global.webs = '-'
+global.gcwangsaf = 'https://chat.whatsapp.com/Jvhe5lK67Kj0wWmWcgZZ4L'
 
 /*Donasi*/
-global.saweria = 'https://saweria.com/MaxxyBotz'
-global.dana = '085380166282'
-global.pulsa = '085295374964'
+global.saweria = '-'
+global.dana = '089513081052'
+global.pulsa = '089513081052'
 global.trakteer = '-'
 global.paypal = '-'
 global.gopay = '-'
-global.pdana = '085380166282'
+global.pdana = '089513081052'
 global.povo = '-'
 global.pgopay = '-'
-global.ppulsa = '085295374964'
-global.ppulsa2 = '085295374964'
-global.psaweria = 'https://saweria.com/MaxxyBotz'
+global.ppulsa = '089513081052'
+global.ppulsa2 = '6285860928363'
+global.psaweria = '-'
 
 /*Emoji*/
 global.rpg = {
